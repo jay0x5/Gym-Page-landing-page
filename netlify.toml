@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/arc-sw.js"
+  to = "https://fitnesstopg.netlify.app/arc-sw.js"
+  status = 200
